@@ -85,7 +85,7 @@ inquirer.prompt(questions)
                         <div class="row">
                     
                             <!-- Employee 1 -->
-                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem;">
+                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">
                                     <h5 class="card-title">Name Here</h5>
                                 </div>
@@ -97,7 +97,7 @@ inquirer.prompt(questions)
                             </div>
                     
                             <!-- Employee 2 -->
-                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem;">
+                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">
                                     <h5 class="card-title">Name Here</h5>
                                 </div>
@@ -109,7 +109,7 @@ inquirer.prompt(questions)
                             </div>
                     
                             <!-- Employee 3 -->
-                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem;">
+                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">
                                     <h5 class="card-title">Name Here</h5>
                                 </div>
@@ -123,7 +123,7 @@ inquirer.prompt(questions)
                     
                         <div class="row">
                             <!-- Employee 4-->
-                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem;">
+                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">
                                     <h5 class="card-title">Name Here</h5>
                                 </div>
@@ -135,7 +135,7 @@ inquirer.prompt(questions)
                             </div>
                     
                             <!-- Employee 5 -->
-                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem;">
+                            <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">
                                     <h5 class="card-title">Name Here</h5>
                                 </div>
