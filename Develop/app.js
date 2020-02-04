@@ -82,7 +82,7 @@ inquirer.prompt(questions)
                             <p style="text-align: center">My Team</p>
                         </nav>
                     
-                        <div class="row">
+                        <div class="row" id="row1">
                     
                             <!-- Employee 1 -->
                             <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
@@ -121,7 +121,7 @@ inquirer.prompt(questions)
                             </div>
                         </div>
                     
-                        <div class="row">
+                        <div class="row" id="row2">
                             <!-- Employee 4-->
                             <div class="card text-white bg-primary sm-3" style="max-width: 14rem; margin: 5px;">
                                 <div class="card-header" id="name">

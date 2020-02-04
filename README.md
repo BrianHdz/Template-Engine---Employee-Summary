@@ -4,4 +4,6 @@ When the user has completed building the team, the application will create an HT
 
 As a manager <br>
 I want to generate a webpage that displays my team's basic info <br>
-so that I have quick access to emails and GitHub profiles
+so that I have quick access to emails and GitHub profiles<br><br><br>
+
+<img src="/Assets/AppPhoto.png">
